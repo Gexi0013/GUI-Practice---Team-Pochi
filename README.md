@@ -1,12 +1,12 @@
 # GUI-Practice---Team-Pochi
 
-Submission for MO-IT103 – Computer Programming 2
-Subject: MO-IT103 – Computer Programming 2
-Mentor: Aldwin Nunag
-Term: Term 3, SY 2024–2025
-Submission: Homework #3 – GUI Practice
-Repository: https://github.com/Gexi0013/GUI-Practice---Team-Pochi
-Mentor Email: anunang@mmdc.mcl.edu.ph added as collaborator
+- Submission for MO-IT103 – Computer Programming 2
+- Subject: MO-IT103 – Computer Programming 2
+- Mentor: Aldwin Nunag
+- Term: Term 3, SY 2024–2025
+- Submission: Homework #3 – GUI Practice
+- Repository: https://github.com/Gexi0013/GUI-Practice---Team-Pochi
+- Mentor Email: anunang@mmdc.mcl.edu.ph added as collaborator
 
 ## Features
 - 
